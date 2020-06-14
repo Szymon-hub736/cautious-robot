@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="eng">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Szkolne Koło Wolontariatu</title>
+  </head>
+
+  <body>
+    <header>
+      <img id="logo" src="grafika/logo.png" alt="logo_szkoły" />
+      <div class="info">
+        <a href="dokumenty/regulamin.pdf" target="_blank">Regulamin</a>     |
+      </div>
+      <h1>Sklep Rowerowy</h1>
+      <h2>u Zuzi</h2>
+      <div class="koniec"></div>
+    </header>
+
+    <footer>
+      <div id="kontakt">
+        Dane kontaktowe:<br />
+        <strong
+          >Szkolne Koło Wolontariatu<br />
+          im. Janusza Korczaka</strong
+        ><br />
+        Przewodniczący: XXX XXX przewodniczacy@szkola.pl<br />
+        Opiekun: XXX XXX opiekun@szkola.pl<br />
+      </div>
+      <div>
+        Adres szkoły:<br />
+        <strong>IV Liceum Ogólnokształcące</strong><br />
+        XXX<br />
+        XXX
+      </div>
+      <div class="koniec"></div>
+    </footer>
+  </body>
+</html>
